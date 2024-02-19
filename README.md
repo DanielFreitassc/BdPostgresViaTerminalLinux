@@ -12,7 +12,7 @@ sudo -u postgres psql nome-do-banco
 - \dt mostra tabelas
 - \l mostra o databases criados
 - \c nome-do-banco , é utilizado para entrar em outro banco de dados
-
+- \q sai da visualização dos bancos criados
 # Apagar database 
 ```
 sudo -u postgres psql postgres 
