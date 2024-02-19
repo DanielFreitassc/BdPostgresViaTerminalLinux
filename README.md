@@ -21,7 +21,8 @@ sudo -u postgres psql postgres
 ```
 \l
 ```
-## remova o banco com o comando
+## remova o banco com o comando 
 ```
-DROP DATABASE nome-do-banco;
+DROP DATABASE "nome-do-banco";
 ```
+.obs aspas em alguns casos devem ser utilizadas
